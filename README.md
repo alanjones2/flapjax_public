@@ -7,14 +7,6 @@ Flapjax stands for **F**lask, **P**ython and **J**avascript with **ax** represen
 
 All the code here is available for download and use in your own projects but please bear in mind that it is for educational and illustrative use and not necessarily suitable for production code.
 
-If you have found this repo useful, please consider
+If you have found this repo useful, please consider this:
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('alan_jones', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<a href='https://ko-fi.com/M4M64THKG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
