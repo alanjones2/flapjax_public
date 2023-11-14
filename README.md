@@ -9,4 +9,12 @@ All the code here is available for download and use in your own projects but ple
 
 If you have found this repo useful, please consider
 
-<iframe id='kofiframe' src='https://ko-fi.com/alan_jones/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='alan_jones'></iframe>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('alan_jones', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
