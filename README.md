@@ -22,7 +22,7 @@ Flapjax stands for **F**lask, **P**ython, **J**avascript and  **ax** which repre
 
 ---
 
-_All the code here is available for download and use in your own projects but please bear in mind that it is for educational and illustrative use and not necessarily suitable for production code._
+_All the code here is available for download and use in your own projects but please bear in mind that it is for educational and illustrative use and not necessarily suitable for production code.  Refer to the License document in this repo for further details._
 
 
 If you have found this repo useful, please consider this:
