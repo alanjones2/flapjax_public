@@ -19,7 +19,7 @@
         <div class="lead">{{params.content}}</div>
         </div>
     <script type='text/javascript'>
-      var figure = JSON.parse({{params.graph | safe}})
+      var figure = JSON.parse('{{ params.graph | safe }}')
       Plotly.newPlot('chart', figure, {});
     </script>
 
