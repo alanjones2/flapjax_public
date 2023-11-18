@@ -14,7 +14,7 @@ def get_graph(period = 'JJA'):
 
     graphJSON = fig.to_json()
 
-    return json.dumps(graphJSON)
+    return graphJSON
 
 def template(params):
     return render_template(params['template'], params=params)
