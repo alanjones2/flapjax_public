@@ -6,10 +6,10 @@ This repo is he public version of the code that I have developed for tutorials a
 ### Files and folders
 
 - basic - this folder contains a simple Flask app with two html templates
-    - app.py - the basiv Flask app
+    - app.py - the basic Flask app
     - templates/simpleindex.html - a basic index page
     - templates/index.html - a basic index page using Bootstrap for styling
-- jinja-article - this folder contains files that support the first tutorial which can be found [here](https://towardsdatascience.com/flapjax-data-visualization-on-the-web-with-plotly-and-flask-465090fa3fba)  
+- jinja-article - this folder contains files that support the tutorial [__Flapjax: Data Visualization on the Web with Plotly and Flask__](https://towardsdatascience.com/flapjax-data-visualization-on-the-web-with-plotly-and-flask-465090fa3fba)  
     - app.py is the Flask app
     - GlobalTemps1880-2022.csv is the data used in the tutorial
     - templates/
