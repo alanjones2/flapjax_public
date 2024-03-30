@@ -17,7 +17,7 @@ This repo is he public version of the code that I have developed for tutorials a
         - simpleindex.html - a static data visualisation
         - ddsimpleindex.html - an interactive data visualisation
 
-- jinja-article/reuse - this folder coontans the code to support the article [Reusing Flapjax Templates and Code](https://medium.com/codefile/reusing-flapjax-templates-and-code-0ee6db58ffc8)
+- jinja-article/reuse - this folder contains the code to support the article [Reusing Flapjax Templates and Code](https://medium.com/codefile/reusing-flapjax-templates-and-code-0ee6db58ffc8)
 
 
 ---
