@@ -1,5 +1,5 @@
 # Flapjax - Public
-### An approach to Data visualisation with Flask, Python and Plotly
+### An approach to Data Visualisation with Flask, Python and Plotly
 
 This repo is he public version of the code that I have developed for tutorials about Flapjax and supports the tutorials that will be linked to here in the future.
 
